@@ -2,7 +2,7 @@
 
 ## Instructions
 
-1. Extract all contents of ZIP file.
+1. Extract all contents of .zip file.
 2. Make sure your Model O/O- is plugged in to your computer.
 3. Remove any other mice plugged into computer.
 4. Run [fm_1_0_9_update.exe](/firmware_update/fm_1_0_9_update.exe) in [firmware_update](/firmware_update) folder.
