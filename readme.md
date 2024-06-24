@@ -13,7 +13,7 @@
 
 ## Advance Functions
 
-In the Model O/O- software, you will notice a setting called "Debounce Time". The default value of this is 10ms. 
+In the Model O/O- software, you will notice a setting called Debounce Time. The default value of this is 10ms. 
 
 The debounce setting is an adjustable setting in the Model O/O- software that improves the mouse click latency. The lower the mouse click latency, the higher risk of double clicking. This setting is useful for playing around with if your mouse clicks start double clicking and other advance tests.
 
